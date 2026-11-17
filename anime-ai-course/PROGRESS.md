@@ -68,6 +68,7 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - Electrical wiring descriptions (series/parallel) confuse him. Use everyday cause-and-effect examples instead (car start button, doorbells).
 - Three new ideas in one reply was too many. He stops reading at the first thing he doesn't get. Max one or two ideas per reply.
 - Reads number lists digit by digit: "0, 1, 10, 11, 100" looked like "0, 1, 1, 0, 1, 1, 1, 0, 0". Write binary numbers one at a time in words, never as a comma list.
+- Didn't know the word "odometer" and hated that example. Never build an example on a word or object he might not know. Best source of examples: his own world (video editing timelines, timecode, Premiere/After Effects, phones, everyday Philippine life).
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
