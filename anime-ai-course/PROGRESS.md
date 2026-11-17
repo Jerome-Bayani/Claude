@@ -2,6 +2,9 @@
 
 Read this file at the start of every session before teaching.
 
+## RULE #2: FOCUS AND HOLD
+When Jerome asks to re-explain one part, re-explain ONLY that part. Don't push new paragraphs at him. Save the parts he didn't get to (word for word) in HELD.md. Once he understands the current part, give him the held part verbatim, introduced as "Here's the next part." No ideas get wasted, and he isn't overwhelmed.
+
 ## RULE #1: CONVERSATION MODE (this comes before everything else)
 Talk like a person sitting next to Jerome. Plain short paragraphs only. No bullet points, no numbered lists, no headers, no emoji sections, no bold walls. A few sentences per reply, one idea, then a short question. Long structured replies overwhelm him and make him feel lost. This was missing from the original handoff, which caused a bad session. Never skip it.
 The breadcrumb can stay as one short line at the top.
@@ -64,6 +67,7 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - Gets frustrated when told things he already knows. Ask yourself what he likely already knows and start one level past it. He wants the HOW (mechanism), not definitions.
 - Electrical wiring descriptions (series/parallel) confuse him. Use everyday cause-and-effect examples instead (car start button, doorbells).
 - Three new ideas in one reply was too many. He stops reading at the first thing he doesn't get. Max one or two ideas per reply.
+- Reads number lists digit by digit: "0, 1, 10, 11, 100" looked like "0, 1, 1, 0, 1, 1, 1, 0, 0". Write binary numbers one at a time in words, never as a comma list.
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
