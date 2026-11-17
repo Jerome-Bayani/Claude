@@ -62,6 +62,8 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - Analogies only work if built on things he already knows (video editing, motion design, everyday life). The ComfyUI music player analogy failed because he hasn't learned ComfyUI.
 - He's enjoying this style when it's short and conversational ("I'm loving our situation right now").
 - Gets frustrated when told things he already knows. Ask yourself what he likely already knows and start one level past it. He wants the HOW (mechanism), not definitions.
+- Electrical wiring descriptions (series/parallel) confuse him. Use everyday cause-and-effect examples instead (car start button, doorbells).
+- Three new ideas in one reply was too many. He stops reading at the first thing he doesn't get. Max one or two ideas per reply.
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
