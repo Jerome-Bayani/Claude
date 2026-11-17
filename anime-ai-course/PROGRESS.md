@@ -50,5 +50,7 @@ Read this file at the start of every session before teaching.
 - Jerome said he already knows what noise is. His open question: **why does it need to be noise?** (Why training uses noise at all.) Answer this next.
 
 ## Notes on what works for Jerome
+- Thinks of the course like a game/TV settings menu: choices nested inside choices, with a pointer on where he is. MENU.md is that menu. Keep its pointer exact and show the breadcrumb at the top of every teaching reply.
+- Wants to go deep on one item until fully understood before the pointer moves.
 - Wants to see the structure (module > part > topic) so he always knows where he is.
 - Conversational mode: short answers when he asks short questions.
