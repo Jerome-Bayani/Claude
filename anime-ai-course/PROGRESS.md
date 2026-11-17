@@ -73,6 +73,7 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - When something clicks he gets excited and says "it's clicking". That's the signal to move on.
 - Wants enough examples to SEE the pattern. A 2-3 step example felt too short; he asked for 1 to 15. Short explanation, but a full worked example.
 - Leading zeros (0 0 0 1) confused him. Don't add padding or "display tricks" he didn't ask for; show the plain natural form first. His instinct (0, then 1, then 10) was correct.
+- Connects new ideas to his own workflows on his own (binary padding = his video-01 file naming). Encourage these bridges and build on them. When he directly asks what I think of how he thinks, answer briefly and honestly.
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
