@@ -4,7 +4,7 @@
 Update the pointer every time we move. Show the breadcrumb at the top of every teaching reply.
 
 **Current breadcrumb:**
-Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2: Add a known amount of noise > ▶ Why does it need to be noise?
+Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > ▶ SIDE TRIP: How machine learning works
 
 ---
 
@@ -18,7 +18,13 @@ Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Ste
   - ▶ Step 2: Add a *known* amount of noise to it
     - ✅ What noise is (random static, pixel-by-pixel random nudges)
     - ✅ What "a known amount" means (the dial from 0 to 100%, and the computer keeps the receipt)
-    - ▶ Why does it need to be noise?
+    - ✅ Why does it need to be noise? (we teach it to clean, not to draw, because we made the mess so we always have the answer)
+    - ▶ SIDE TRIP: How machine learning works (Jerome's questions, one at a time)
+      - ▶ Is this machine learning? What is a model? (a file of numbers, not Python code)
+      - How do they train it, and what language? (Python, PyTorch, GPUs)
+      - Other ways to train a model besides noise
+      - Quick skim of all image model types (diffusion, Grok, ChatGPT, others)
+      - Other concepts besides models
   - Step 3: Ask the model: "What noise did I add?"
   - Step 4: It guesses, and the guess gets compared to the real answer
   - Step 5: Its internal numbers (weights) get nudged to be a little less wrong

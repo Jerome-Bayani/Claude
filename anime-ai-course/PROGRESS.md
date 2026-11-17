@@ -51,10 +51,12 @@ The breadcrumb can stay as one short line at the top.
 
 ## Where we are
 - Covered: noise = random static (TV snow), pixel-by-pixel random nudges; "known amount" = a dial from 0 (clean) to 100% (pure static); training records the dial setting and exact nudges ("keeps the receipt").
-- Jerome said he already knows what noise is. His open question: **why does it need to be noise?** (Why training uses noise at all.) Answer this next.
+- ✅ Why noise: we teach it to clean, not draw, since we made the mess and know the answer. Jerome found this really interesting.
+- Now on a SIDE TRIP into how machine learning works (see MENU.md). After the side trip, return to Step 3 of training.
 
 ## Learner profile (keep building this every session)
 Never stop observing how Jerome responds. Add what you learn here so teaching keeps improving.
+- Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
 ## Notes on what works for Jerome
