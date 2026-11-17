@@ -4,7 +4,7 @@
 Update the pointer every time we move. Show the breadcrumb at the top of every teaching reply.
 
 **Current breadcrumb:**
-Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > Side trip: How ML works > Foundations > ▶ How switches become a calculator
+Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > Side trip: How ML works > Foundations > ▶ Counting in binary
 
 ---
 
@@ -23,7 +23,10 @@ Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Ste
       - ✅ Is this machine learning? What is a model? (a file of numbers, not Python code)
       - ▶ Foundations first (Jerome wants to go to the bottom and build up)
         - ✅ Ones and zeros: switches (already knew)
-        - ▶ How switches become a calculator: binary and logic gates
+        - ✅ Counting rollover (timecode example)
+        - ▶ Counting in binary
+        - Logic gates (held part: car button and doorbell)
+        - How gates add numbers
         - How a computer runs instructions
         - Who invented machine learning, and how
         - How machine learning actually works inside a computer
