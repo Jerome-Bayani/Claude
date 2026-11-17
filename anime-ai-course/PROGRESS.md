@@ -71,6 +71,7 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - Didn't know the word "odometer" and hated that example. Never build an example on a word or object he might not know. Best source of examples: his own world (video editing timelines, timecode, Premiere/After Effects, phones, everyday Philippine life).
 - Timecode example landed hard. Examples from his editing world work best.
 - When something clicks he gets excited and says "it's clicking". That's the signal to move on.
+- Wants enough examples to SEE the pattern. A 2-3 step example felt too short; he asked for 1 to 15. Short explanation, but a full worked example.
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
