@@ -4,7 +4,7 @@
 Update the pointer every time we move. Show the breadcrumb at the top of every teaching reply.
 
 **Current breadcrumb:**
-Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > ▶ SIDE TRIP: How machine learning works
+Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > Side trip: How ML works > Foundations > ▶ How a computer works: ones and zeros
 
 ---
 
@@ -20,8 +20,13 @@ Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Ste
     - ✅ What "a known amount" means (the dial from 0 to 100%, and the computer keeps the receipt)
     - ✅ Why does it need to be noise? (we teach it to clean, not to draw, because we made the mess so we always have the answer)
     - ▶ SIDE TRIP: How machine learning works (Jerome's questions, one at a time)
-      - ▶ Is this machine learning? What is a model? (a file of numbers, not Python code)
-      - How do they train it, and what language? (Python, PyTorch, GPUs)
+      - ✅ Is this machine learning? What is a model? (a file of numbers, not Python code)
+      - ▶ Foundations first (Jerome wants to go to the bottom and build up)
+        - ▶ How a computer works: ones and zeros (bits and bytes)
+        - How a computer runs instructions
+        - Who invented machine learning, and how
+        - How machine learning actually works inside a computer
+        - What coding language they use to build and train models (Python, PyTorch, CUDA on the GPU)
       - Other ways to train a model besides noise
       - Quick skim of all image model types (diffusion, Grok, ChatGPT, others)
       - Other concepts besides models

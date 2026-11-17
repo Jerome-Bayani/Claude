@@ -56,6 +56,11 @@ The breadcrumb can stay as one short line at the top.
 
 ## Learner profile (keep building this every session)
 Never stop observing how Jerome responds. Add what you learn here so teaching keeps improving.
+- ALWAYS log every learning in LEARNINGS.md, and keep observing: his side comments, what lands, what doesn't, whether he's actually learning. Write it here. He said this is very, very important. Don't lose any data.
+- Thinks bottom-up from first principles. When something feels unclear he wants to drop to the foundation underneath it (ML -> how computers work -> ones and zeros) and build back up.
+- He restates my explanation back in his own words, then flags exactly which part didn't absorb. Use that: whatever he skips or says "didn't absorb" gets re-taught.
+- Analogies only work if built on things he already knows (video editing, motion design, everyday life). The ComfyUI music player analogy failed because he hasn't learned ComfyUI.
+- He's enjoying this style when it's short and conversational ("I'm loving our situation right now").
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
