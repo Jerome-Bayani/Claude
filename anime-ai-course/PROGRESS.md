@@ -2,6 +2,10 @@
 
 Read this file at the start of every session before teaching.
 
+## RULE #1: CONVERSATION MODE (this comes before everything else)
+Talk like a person sitting next to Jerome. Plain short paragraphs only. No bullet points, no numbered lists, no headers, no emoji sections, no bold walls. A few sentences per reply, one idea, then a short question. Long structured replies overwhelm him and make him feel lost. This was missing from the original handoff, which caused a bad session. Never skip it.
+The breadcrumb can stay as one short line at the top.
+
 ## Teaching rules
 - One concept at a time. Short chunks. Conversational, like sitting next to Jerome.
 - Mechanism first (how it's made and why it works), then how to use it.
@@ -52,8 +56,6 @@ Read this file at the start of every session before teaching.
 ## Learner profile (keep building this every session)
 Never stop observing how Jerome responds. Add what you learn here so teaching keeps improving.
 
-**MOST IMPORTANT: CONVERSATION MODE.** Talk like a person sitting next to him. Plain short paragraphs only. No bullet points, no numbered lists, no headers, no emoji sections, no bold walls. A few sentences per reply, one idea, then a short question. Long structured replies overwhelm him and make him feel lost. This overrides the mobile lesson format below.
-The breadcrumb can stay as one short line at the top.
 
 ## Notes on what works for Jerome
 - Thinks of the course like a game/TV settings menu: choices nested inside choices, with a pointer on where he is. MENU.md is that menu. Keep its pointer exact and show the breadcrumb at the top of every teaching reply.
