@@ -4,7 +4,7 @@
 Update the pointer every time we move. Show the breadcrumb at the top of every teaching reply.
 
 **Current breadcrumb:**
-Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > Side trip: How ML works > Foundations > ▶ How a computer works: ones and zeros
+Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Step 2 > Side trip: How ML works > Foundations > ▶ How switches become a calculator
 
 ---
 
@@ -22,7 +22,8 @@ Module 1 > Part 1 > 🧠 How a model is made > Training is a guessing game > Ste
     - ▶ SIDE TRIP: How machine learning works (Jerome's questions, one at a time)
       - ✅ Is this machine learning? What is a model? (a file of numbers, not Python code)
       - ▶ Foundations first (Jerome wants to go to the bottom and build up)
-        - ▶ How a computer works: ones and zeros (bits and bytes)
+        - ✅ Ones and zeros: switches (already knew)
+        - ▶ How switches become a calculator: binary and logic gates
         - How a computer runs instructions
         - Who invented machine learning, and how
         - How machine learning actually works inside a computer

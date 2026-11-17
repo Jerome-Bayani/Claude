@@ -11,3 +11,5 @@ Add every new learning here, in plain words, in the order it was learned. Mark �
 4. Yes, this is machine learning. Machine learning means instead of writing rules by hand, you show a computer tons of examples and it adjusts itself until it gets good.
 5. A model is not Python code. It's a giant file of numbers (billions), and those numbers are the weights.
 6. ⚠️ Song file vs music player analogy (model = song, ComfyUI = player). Did NOT land, because Jerome doesn't know ComfyUI yet. Don't use analogies built on things he hasn't learned.
+7. ⚠️ Transistors = tiny on/off switches, on = 1, off = 0, one switch = a bit. Jerome ALREADY KNEW this. Skip basics he knows; he wants the "how does that become a computer" mechanism.
+8. Binary = writing numbers using only 0 and 1. Switches wired together into logic gates (AND, OR, XOR) can make decisions, and a few gates together can add numbers. That's how a calculator is made from switches.

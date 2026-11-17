@@ -61,6 +61,7 @@ Never stop observing how Jerome responds. Add what you learn here so teaching ke
 - He restates my explanation back in his own words, then flags exactly which part didn't absorb. Use that: whatever he skips or says "didn't absorb" gets re-taught.
 - Analogies only work if built on things he already knows (video editing, motion design, everyday life). The ComfyUI music player analogy failed because he hasn't learned ComfyUI.
 - He's enjoying this style when it's short and conversational ("I'm loving our situation right now").
+- Gets frustrated when told things he already knows. Ask yourself what he likely already knows and start one level past it. He wants the HOW (mechanism), not definitions.
 - Curiosity branches out fast: one answer triggers 5 bigger questions. Handle with side trips in MENU.md, one question at a time, then return to the main path.
 
 
