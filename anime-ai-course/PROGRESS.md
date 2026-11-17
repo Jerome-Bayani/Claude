@@ -42,7 +42,7 @@ Read this file at the start of every session before teaching.
 3. Seed
 
 ## Lesson files
-- `module-01/01-overview-from-mobile-chat.md`: the original overview of all 4 parts, pasted from the mobile chat. Format to follow: emoji section headers, numbered mechanism steps, bold key terms, 💡 tips, ⚠️ real-world warnings, a one-line summary, then a quick check.
+- `module-01/01-overview-from-mobile-chat.md`: the original overview of all 4 parts, pasted from the mobile chat. That structured format is NOT what Jerome wants for teaching. Use conversation mode.
 - Its quick check ("Which of the 4 parts is not AI, and why does that matter?") was never answered.
 
 ## Where we are
@@ -51,6 +51,9 @@ Read this file at the start of every session before teaching.
 
 ## Learner profile (keep building this every session)
 Never stop observing how Jerome responds. Add what you learn here so teaching keeps improving.
+
+**MOST IMPORTANT: CONVERSATION MODE.** Talk like a person sitting next to him. Plain short paragraphs only. No bullet points, no numbered lists, no headers, no emoji sections, no bold walls. A few sentences per reply, one idea, then a short question. Long structured replies overwhelm him and make him feel lost. This overrides the mobile lesson format below.
+The breadcrumb can stay as one short line at the top.
 
 ## Notes on what works for Jerome
 - Thinks of the course like a game/TV settings menu: choices nested inside choices, with a pointer on where he is. MENU.md is that menu. Keep its pointer exact and show the breadcrumb at the top of every teaching reply.
