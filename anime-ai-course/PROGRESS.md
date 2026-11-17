@@ -41,6 +41,10 @@ Read this file at the start of every session before teaching.
 2. CFG
 3. Seed
 
+## Lesson files
+- `module-01/01-overview-from-mobile-chat.md`: the original overview of all 4 parts, pasted from the mobile chat. Format to follow: emoji section headers, numbered mechanism steps, bold key terms, 💡 tips, ⚠️ real-world warnings, a one-line summary, then a quick check.
+- Its quick check ("Which of the 4 parts is not AI, and why does that matter?") was never answered.
+
 ## Where we are
 - Covered: noise = random static (TV snow), pixel-by-pixel random nudges; "known amount" = a dial from 0 (clean) to 100% (pure static); training records the dial setting and exact nudges ("keeps the receipt").
 - Jerome said he already knows what noise is. His open question: **why does it need to be noise?** (Why training uses noise at all.) Answer this next.
