@@ -49,6 +49,9 @@ Read this file at the start of every session before teaching.
 - Covered: noise = random static (TV snow), pixel-by-pixel random nudges; "known amount" = a dial from 0 (clean) to 100% (pure static); training records the dial setting and exact nudges ("keeps the receipt").
 - Jerome said he already knows what noise is. His open question: **why does it need to be noise?** (Why training uses noise at all.) Answer this next.
 
+## Learner profile (keep building this every session)
+Never stop observing how Jerome responds. Add what you learn here so teaching keeps improving.
+
 ## Notes on what works for Jerome
 - Thinks of the course like a game/TV settings menu: choices nested inside choices, with a pointer on where he is. MENU.md is that menu. Keep its pointer exact and show the breadcrumb at the top of every teaching reply.
 - Wants to go deep on one item until fully understood before the pointer moves.
